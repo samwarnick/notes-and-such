@@ -1,7 +1,12 @@
 # JavaScript
 
+**Table of Contents**
+* [Arrays](#arrays)
+  * [Length](#length)
+
 ## Arrays
 
+### Length
 Suppose I have
 
 ```js
