@@ -1,7 +1,20 @@
 # CSS
 
 **Table of Contents**
+* [Accessibility](#accessibility)
 * [Custom Properties](#custom-properties)
+* [Fonts](#fonts)
+
+## Accessibility
+
+### Highlight images that don't have an alternate tag
+```css
+img[alt=""],
+img:not([alt]) {
+  border: 5px dashed red;
+}
+```
+[Source](https://twitter.com/AllThingsSmitty/status/930617039085035520)
 
 ## Custom Properties
 
@@ -46,3 +59,13 @@ I'm still playing around with this to see if I can find any more uses for it. It
 **Sources**
 
 [https://css-tricks.com/css-attr-function-got-nothin-custom-properties/](https://css-tricks.com/css-attr-function-got-nothin-custom-properties/)
+
+## Fonts
+
+### Fluid font sizes
+```css
+body {
+  font-size: calc(10px + 0.25vmax);
+}
+```
+[Source](https://twitter.com/geddski/status/930923668456161280)
