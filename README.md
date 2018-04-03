@@ -7,5 +7,6 @@ See a mistake or know of a better way to do something? Let me know by creating a
 **Table of Contents**
 
 * [CSS](css.md)
+* [Git](git.md)
 * [JavaScript](javascript.md)
 * [Useful Websites](websites.md)
