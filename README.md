@@ -9,4 +9,5 @@ See a mistake or know of a better way to do something? Let me know by creating a
 * [CSS](css.md)
 * [Git](git.md)
 * [JavaScript](javascript.md)
+* [ngConf 2018](ngConf.md)
 * [Useful Websites](websites.md)
